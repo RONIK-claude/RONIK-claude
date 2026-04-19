@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ronik 👋
 
-<!--
-**RONIK-claude/RONIK-claude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner exploring AI tools to build practical skills and become financially independent.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Learning
+- AI tools for productivity
+- Content creation using AI
+- Basic data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Projects
+- AI YouTube Content Ideas
+- AI Business Ideas
+
+## 🎯 Goal
+To build real-world skills and start earning online using AI.
+
+---
+I am committed to learning and improving every day.
